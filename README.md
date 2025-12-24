@@ -25,3 +25,7 @@ The model effectively identifies fraudulent transactions and provides a strong b
 
 ## ✅ Conclusion
 This project highlights the role of data analytics and machine learning in financial fraud prevention and can be extended using advanced models and real-time systems.
+
+👩‍💻 Author
+
+Deepika
